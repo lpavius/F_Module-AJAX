@@ -1,7 +1,7 @@
 # F_Module-AJAX
 Formation : Module AJAX
 
-## [Exercices avec XmlHttpRequest et Fetch](./exercices/natif/exercices)
+## [Exercices avec XmlHttpRequest et Fetch]
 
 Exemples :
 
